@@ -1,15 +1,18 @@
 button {
-	width: 20%;
-	margin: 4% 6%;
+	width: 90% !important;
+	height: 50px;
+	margin: 4% 3%;
+	font-size: 1.3em;
 }
 
 h1 {
 	text-align: center;
-	margin-top: 3%;
+	margin: 4% 0%;
 }
 
 h5 {
 	text-align: center;
+	margin: 5% 0%; 
 }
 
 h3 {
