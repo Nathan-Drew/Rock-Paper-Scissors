@@ -1,0 +1,27 @@
+button {
+	width: 20%;
+	margin: 4% 6%;
+}
+
+h1 {
+	text-align: center;
+	margin-top: 3%;
+}
+
+h5 {
+	text-align: center;
+}
+
+h3 {
+	margin-top: 7%;
+	text-align: center;
+}
+
+footer {
+	display: block;
+	position: absolute;
+	bottom: 5px;
+	right: 5px;
+	text-align: right;
+	font-style: italic;
+}
