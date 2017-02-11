@@ -1,11 +1,9 @@
-body {
-	font-size: 2em;
-}
 
 button {
 	width: 90% !important;
 	height: 50px;
 	margin: 4% 3%;
+	font-size: 1.5em;
 }
 
 h1 {
@@ -25,10 +23,16 @@ h3 {
 
 footer {
 	display: block;
-	position: absolute;
+	position: fixed;
 	bottom: 5px;
 	right: 5px;
 	text-align: right;
 	font-style: italic;
-	size: 0.3em !important;;
+}
+
+@media screen and (max-width: 758px) and (orientation: landscape) {
+	.col-md-4, .col-sm-4 {
+		width: 32%;
+	}
+
 }
