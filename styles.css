@@ -1,8 +1,11 @@
+body {
+	font-size: 2em;
+}
+
 button {
 	width: 90% !important;
 	height: 50px;
 	margin: 4% 3%;
-	font-size: 1.3em;
 }
 
 h1 {
@@ -27,4 +30,5 @@ footer {
 	right: 5px;
 	text-align: right;
 	font-style: italic;
+	size: 0.5em;
 }
